@@ -1,0 +1,7 @@
+.direnv
+.envrc
+*.pyc
+.DS_Store
+secrets.py
+db.sqlite3
+__pycache__
